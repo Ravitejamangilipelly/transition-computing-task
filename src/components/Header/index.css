@@ -1,0 +1,226 @@
+.header {
+  width: 1650px;
+  height: 64px;
+  left: 270px;
+  background-color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid #ddd;
+  }
+  
+  .header h1 {
+    font-family: "Inter";
+    font-size: 17.5px;
+    font-weight: 500;
+    color: #8A8EA6;
+    padding-left: 10px;
+  }
+  
+  .user-info {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+  }
+.home{
+  width: 20px;
+  height: 20px;
+}
+  
+.owner{
+font-family: "Inter";
+font-size: 14px;
+font-weight: 400;
+color: #44486D;
+background-color: #FCCC55;
+width: 145px;
+text-align: center;
+height: 15px;
+padding: 5px;
+border-radius: 5px;
+}
+
+.admin{
+font-family: "Inter";
+font-size: 14px;
+font-weight: 400;
+color: #FFFFFF;
+background-color: #E553BC;
+width: 52px;
+height: 15px;
+padding: 5px;
+border-radius: 5px;
+text-align: center;
+}
+
+.palak-text{
+font-family: "Inter";
+font-size: 14px;
+font-weight: 500;
+text-align: left;
+color: #8A8EA6;
+}
+  
+.avatar {
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+}
+
+.setting-logo{
+  width: 20px;
+  height: 20px;
+}
+
+.logout-logo{
+ width: 20px;
+ height: 20px;
+} 
+
+.logout-text{
+  font-family: "Inter";
+  font-size: 14px;
+  font-weight: 500;
+  text-align: left;
+  color: #8A8EA6;
+}
+
+.profile-cap{
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+}
+.profile-bg{
+display: flex;
+flex-direction: row;
+background-color: #FFFFFF;
+width: 211px;
+height: 55px;
+gap: 10px;
+margin: 10px;
+border-radius: 10px 10px 0px 0px;
+padding: 5px 5px 5px 5px;
+box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.cicle-text{
+width: 48px;
+height: 48px;
+border-radius: 50px;
+border-width: 1px;
+background-color: #EEF0F5;
+border-color: #4C62921A;
+color: #D7AF48;
+font-family: "Inter";
+font-size: 15.75px;
+font-weight: 700;
+text-align: center;
+}
+.profile-name{
+font-family: "Inter";
+font-size: 14px;
+font-weight: 600;
+text-align: left;
+color: #0F1729;
+}
+
+.cb-text{
+  color: #4C6292;
+}
+
+.profile-bgc{
+  display: flex;
+  flex-direction: row;
+  background-color: #FFFFFF;
+  width: 211px;
+  height: 55px;
+  gap: 10px;
+  margin: 10px;
+  border-radius: 10px 10px 0px 0px;
+  padding: 5px 5px 5px 5px;
+  border-width: 1px, 1px, 0px, 1px;
+border-style: solid;
+border-top-color: #0F8BFD;
+border-left-color: #0F8BFD;
+border-right-color: #0F8BFD;
+border-bottom-color: #FFFFFF;
+box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+
+  }
+  
+  .cicle-textc{
+  width: 48px;
+  height: 48px;
+  border-radius: 50px;
+  border-width: 1px;
+  background-color: #EEF0F5;
+  border-color: #4C62921A;
+  color: #4C6292;
+  font-family: "Inter";
+  font-size: 15.75px;
+  font-weight: 700;
+  text-align: center;
+  }
+  .profile-namec{
+  font-family: "Inter";
+  font-size: 14px;
+  font-weight: 600;
+  text-align: left;
+  color: #0F8BFD;
+  }
+
+.two{
+width:20px;
+height:20px;
+padding: 10px;
+gap: 10px;
+text-align: center;
+border-radius: 50px;
+border-width: 1px;
+background-color: #0F8BFD;
+font-family: "Inter";
+font-size: 14px;
+font-weight: 600;
+color: #FFFFFF;
+
+}
+
+
+.profile-mes{
+  display: flex;
+  flex-direction: row;
+  background-color: #0F8BFD;
+  width: 211px;
+  height: 55px;
+  gap: 10px;
+  margin: 10px;
+  border-radius: 10px 10px 0px 0px;
+  padding: 5px 5px 5px 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .cicle-mes{
+  width: 48px;
+  height: 48px;
+  border-radius: 50px;
+  border-width: 1px;
+  border-color: #0F8BFD;
+  background-color: #0F8BFD;
+  border-style: solid;
+  text-align: center;
+
+  }
+
+  .message-logo{
+    width: 38px;
+    height: 38px;
+    color: #FFFFFF;
+  }
+  .profile-mes{
+  font-family: "Inter";
+  font-size: 14px;
+  font-weight: 600;
+  text-align: left;
+  color: #FFFFFF;
+  }
+  

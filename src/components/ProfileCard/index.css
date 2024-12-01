@@ -1,0 +1,42 @@
+.profile-sec{
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  width: 450px;
+  height: 820px;
+  padding: 20px 20px 20.01px 20px;
+  border-radius: 10px 0px 0px 0px;
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+
+}
+
+
+.profile-card {
+  width: 100px;
+  height: 100px;
+  border-radius: 50px;
+  border: 2px;
+  background-color: #EEF0F5;
+  border-color: #EEF0F5;
+}
+
+.profile-text-b{
+  color: #4C6292;
+  font-family: "Inter";
+font-size: 30.75px;
+font-weight: 700;
+line-height: 37.21px;
+text-align: center;
+  
+}
+
+.hs-text{
+font-family: "Inter";
+font-size: 28px;
+font-weight: 700;
+line-height: 42px;
+text-align: left;
+color: #0F1729;
+}

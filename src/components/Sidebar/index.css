@@ -1,0 +1,41 @@
+.sidebar {
+    width: 240px;
+    height: 960px;
+    padding: 10px 0px 0px 5px;
+    background-color: #273444;
+    color: white;
+    display: flex;
+    flex-direction: column;
+
+  }
+  
+ .risk-image{
+  width: 220px;
+  height: 55.48px;
+ 
+ }
+  
+  .sidebar ul {
+    list-style-type: none;
+   padding: 0px;
+  }
+  
+  .sidebar li {
+    font-family: "Inter";
+    color: #9EA0B3;
+    cursor: pointer;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 27px;
+   
+
+  }
+  
+  .sidebar li:hover {
+    color: #ffffff;
+  }
+  .menu-icon {
+    width: 34px;
+    height: 34px;
+
+  }
